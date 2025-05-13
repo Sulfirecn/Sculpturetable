@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/lenovo/Desktop/bighomework/res/Adventure_0.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/Adventure_1.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/background1.jpg</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/bar.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/bar2.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/bar3.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/bar4.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/bar5.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/bg.jpg</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/bg.MP3</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/fail2.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/gameFail.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/gameWin.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/lose.mp3</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/map0.jpg</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/menu.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/menu1.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/menu2.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/sunshine.mp3</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/sunshine.wav</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/win.mp3</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/win.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/win2.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/Zombies/ConeheadZombie/0.gif</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/v2-81345c3d2017060f0993b192f40e5397_r.jpg</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/v2-b247fdf4c050ac45db753c0b93db4166_r.jpg</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/bullets/PeaIce/PeaIce_0.png</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/OIP-C.jpg</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/Zombies/BucketheadZombie/0.gif</file>
+        <file>C:/Users/lenovo/Desktop/bighomework/res/Zombies/Zombie/0.gif</file>
+    </qresource>
+</RCC>
